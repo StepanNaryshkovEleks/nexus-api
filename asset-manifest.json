@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/nexus-api/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/nexus-api/static/js/main.2e9ddd14.chunk.js",
-    "main.js.map": "/nexus-api/static/js/main.2e9ddd14.chunk.js.map",
-    "runtime-main.js": "/nexus-api/static/js/runtime-main.528f43f1.js",
-    "runtime-main.js.map": "/nexus-api/static/js/runtime-main.528f43f1.js.map",
-    "static/js/2.d4e0a0cd.chunk.js": "/nexus-api/static/js/2.d4e0a0cd.chunk.js",
-    "static/js/2.d4e0a0cd.chunk.js.map": "/nexus-api/static/js/2.d4e0a0cd.chunk.js.map",
-    "static/js/3.ed84b293.chunk.js": "/nexus-api/static/js/3.ed84b293.chunk.js",
-    "static/js/3.ed84b293.chunk.js.map": "/nexus-api/static/js/3.ed84b293.chunk.js.map",
+    "main.css": "/nexus-api/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nexus-api/static/js/main.5515951e.chunk.js",
+    "main.js.map": "/nexus-api/static/js/main.5515951e.chunk.js.map",
+    "runtime-main.js": "/nexus-api/static/js/runtime-main.36a0f774.js",
+    "runtime-main.js.map": "/nexus-api/static/js/runtime-main.36a0f774.js.map",
+    "static/css/2.a95be28f.chunk.css": "/nexus-api/static/css/2.a95be28f.chunk.css",
+    "static/js/2.45803397.chunk.js": "/nexus-api/static/js/2.45803397.chunk.js",
+    "static/js/2.45803397.chunk.js.map": "/nexus-api/static/js/2.45803397.chunk.js.map",
+    "static/js/3.16456154.chunk.js": "/nexus-api/static/js/3.16456154.chunk.js",
+    "static/js/3.16456154.chunk.js.map": "/nexus-api/static/js/3.16456154.chunk.js.map",
     "index.html": "/nexus-api/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/nexus-api/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d4e0a0cd.chunk.js.LICENSE.txt": "/nexus-api/static/js/2.d4e0a0cd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/nexus-api/static/media/logo.6ce24c58.svg"
+    "static/css/2.a95be28f.chunk.css.map": "/nexus-api/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/nexus-api/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.45803397.chunk.js.LICENSE.txt": "/nexus-api/static/js/2.45803397.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.528f43f1.js",
-    "static/js/2.d4e0a0cd.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2e9ddd14.chunk.js"
+    "static/js/runtime-main.36a0f774.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.45803397.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5515951e.chunk.js"
   ]
 }
